@@ -2,6 +2,17 @@
 
 사용자가 이미지를 업로드하고, 비동기적으로 포맷을 변환한 뒤 실시간 알림을 통해 다운로드할 수 있는 웹 애플리케이션입니다.
 
+---
+
+## 🔗 Link
+
+### Project Management
+[Image Convertor](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780d392a5d9a81faa277c?v=1c5d497ed3d781c7bfc8000c0199ec72)
+
+### Wiki
+[Yubin Wiki](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94)
+
+---
 
 ## 🏗️ Architecture Overview
 
