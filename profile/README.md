@@ -7,11 +7,11 @@
 ## 🔗 Link
 
 ### WebPage
-[Image Convertor](https://image-converter.yubinshin.com/)
 <img width="885" alt="image-converter-thumbnail" src="https://github.com/user-attachments/assets/6662efe8-3793-4128-aaf0-39d46b08a67e" />
+[Image Converter](https://image-converter.yubinshin.com/)
 
 ### Project Management
-[Image Convertor](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780d392a5d9a81faa277c?v=1c5d497ed3d781c7bfc8000c0199ec72)
+[Image Converter](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780d392a5d9a81faa277c?v=1c5d497ed3d781c7bfc8000c0199ec72)
 
 ### Wiki
 [Yubin Wiki](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94)
@@ -33,7 +33,7 @@
 
 ## 🏗️ Architecture Overview
 
-![image-converter drawio](https://github.com/user-attachments/assets/f015a788-f29b-4f0d-ad6a-4fe588de92cc)
+![System Architecture Diagram](https://github.com/user-attachments/assets/f015a788-f29b-4f0d-ad6a-4fe588de92cc)
 
 
 ## 개요
@@ -303,7 +303,7 @@
 
 ## 🧑‍💻 Contributors
 
-- **유빈 신** – Backend, DevOps, Architecture Design
+- **유빈 신** – Frontend, Backend, DevOps, Architecture Design
 
 ---
 
