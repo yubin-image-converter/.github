@@ -6,11 +6,29 @@
 
 ## 🔗 Link
 
+### WebPage
+Image Converter
+[Image Convertor](https://image-converter.yubinshin.com/)
+<img width="885" alt="image-converter-thumbnail" src="https://github.com/user-attachments/assets/6662efe8-3793-4128-aaf0-39d46b08a67e" />
+
 ### Project Management
 [Image Convertor](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780d392a5d9a81faa277c?v=1c5d497ed3d781c7bfc8000c0199ec72)
 
 ### Wiki
 [Yubin Wiki](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94)
+
+
+## 🧩 프로젝트 저장소 구성
+
+| 저장소 | 설명 |
+|--------|------|
+| [**frontend**](https://github.com/yubin-image-converter/frontend) | React + Vite 기반 사용자 인터페이스<br>로그인, 이미지 업로드, 실시간 변환 상태 확인 UI 제공 |
+| [**api**](https://github.com/yubin-image-converter/api) | Spring Boot 기반 API 서버<br>파일 업로드, 변환 상태 조회, DB 연동 등 핵심 비즈니스 로직 처리 |
+| [**authentication**](https://github.com/yubin-image-converter/authentication) | NestJS 기반 인증 서버<br>Google OAuth2, JWT 발급 및 유효성 검사 |
+| [**websocket**](https://github.com/yubin-image-converter/websocket) | Node.js + Socket.io 기반 WebSocket 서버<br>변환 상태 실시간 푸시, 다중 세션 관리 |
+| [**worker**](https://github.com/yubin-image-converter/worker) | Rust 기반 이미지 → ASCII 변환 워커<br>RabbitMQ 메시지 처리, API 서버로 결과 콜백 전송 |
+| [**k8s**](https://github.com/yubin-image-converter/k8s) | Kubernetes GitOps 구성 저장소<br>Argo CD, Helm/Kustomize, Sealed Secret 등 인프라 전반 관리 |
+
 
 ---
 
