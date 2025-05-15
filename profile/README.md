@@ -7,10 +7,14 @@
 ## 🔗 Link
 
 ### WebPage
-[![image-converter-thumbnail](https://github.com/user-attachments/assets/6662efe8-3793-4128-aaf0-39d46b08a67e)](https://image-converter.yubinshin.com/)
+<p>
+  <a href="https://image-converter.yubinshin.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6662efe8-3793-4128-aaf0-39d46b08a67e" width="600" alt="Image Converter Thumbnail" />
+  </a>
+</p>
 <p >
   <a href="https://image-converter.yubinshin.com/" target="_blank">
-    🔗 <strong>View Live Demo: image-converter.yubinshin.com</strong>
+    <strong>View Live Demo: image-converter.yubinshin.com</strong>
   </a>
 </p>
 
