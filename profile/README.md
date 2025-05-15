@@ -16,7 +16,8 @@
 
 ## 🏗️ Architecture Overview
 
-![image-convertor](https://github.com/user-attachments/assets/16d67fb8-a3fc-436c-ba78-ff53293c05b9)
+![image-converter drawio](https://github.com/user-attachments/assets/f015a788-f29b-4f0d-ad6a-4fe588de92cc)
+
 
 ## 개요
 
