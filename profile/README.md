@@ -1,4 +1,4 @@
-# 🖼️ Image Converter
+# 🖌️ Image Converter
 
 사용자가 이미지를 업로드하고, 비동기적으로 포맷을 변환한 뒤 실시간 알림을 통해 다운로드할 수 있는 웹 애플리케이션입니다.
 
@@ -14,18 +14,46 @@
 </p>
 <p >
   <a href="https://image-converter.yubinshin.com/" target="_blank">
-    <strong>View Live Demo: image-converter.yubinshin.com</strong>
+    View Live Demo
   </a>
 </p>
 
 ### Project Management
-[Image Converter](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780d392a5d9a81faa277c?v=1c5d497ed3d781c7bfc8000c0199ec72)
+
+<p>
+  <a href="https://www.notion.so/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94&pvs=4#1c5d497ed3d780c5b2fede023ec1785d" target="_blank">
+<img width="600" alt="Image Converter Project Management
+" src="https://github.com/user-attachments/assets/7edb8373-c9a6-4d54-861b-e1c5a2dec60e" />
+  </a>
+</p>
+<p >
+  <a href="https://www.notion.so/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94&pvs=4#1c5d497ed3d780c5b2fede023ec1785d" target="_blank">
+    Notion Project Management
+  </a>
+</p>
+
+
+
 
 ### Wiki
-[Yubin Wiki](https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94)
 
 
-## 🧩 프로젝트 저장소 구성
+
+<p>
+  <a href="https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94" target="_blank">
+<img width="300" alt="wiki" src="https://github.com/user-attachments/assets/772699c5-18ec-431b-8b10-0d7afb9d42eb" />
+  </a>
+</p>
+<p >
+  <a href="https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94" target="_blank">
+    Yubin Wiki
+  </a>
+</p>
+
+
+
+
+## Project Repositories
 
 | 저장소 | 설명 |
 |--------|------|
@@ -39,7 +67,7 @@
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ![System Architecture Diagram](https://github.com/user-attachments/assets/f015a788-f29b-4f0d-ad6a-4fe588de92cc)
 
