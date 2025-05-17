@@ -162,7 +162,7 @@
 > ~~DLX 및 TTL 기반 Retry Queue로 일시적 장애에 자동 대응합니다.~~
 > 
 
-### Image Converter (Worker)
+### Worker
 
 - **기술 스택**
     - Rust
