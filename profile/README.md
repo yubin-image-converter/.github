@@ -4,7 +4,7 @@
 
 ---
 
-## 🔗 Link
+## Link
 
 ### WebPage
 <p>
@@ -337,12 +337,12 @@
 
 ---
 
-## 🧑‍💻 Contributors
+## Contributors
 
 - **유빈 신** – Frontend, Backend, DevOps, Architecture Design
 
 ---
 
-## 🪧 License
+## License
 
 MIT © YubinShin
