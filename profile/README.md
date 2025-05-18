@@ -295,7 +295,7 @@
 - **기술 스택**
     - SpringDoc OpenAPI
 - **기능**
-    - `/swagger-ui.html` 경로에서 API 테스트 및 명세 확인 가능
+    - `/swagger-ui.index.html` 경로에서 API 명세 확인 가능
 
 ---
 
