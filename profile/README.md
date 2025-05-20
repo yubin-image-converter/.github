@@ -57,7 +57,7 @@
 <img width="300" alt="argocd thumbnail" src="https://github.com/user-attachments/assets/23c54206-7029-4d08-b669-2d1f3fa3295f" />  </a>
 </p>
 <p >
-  <a href="https://sunset-flyaway-8c4.notion.site/1c5d497ed3d780249474f31d8367084b?v=1c5d497ed3d7800e993d000c194fcc94" target="_blank">
+  <a href="https://argocd.yubinshin.com/login?return_url=https%3A%2F%2Fargocd.yubinshin.com%2Fapplications" target="_blank">
     Yubin ArgoCD
   </a>
 </p>
