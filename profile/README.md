@@ -14,7 +14,7 @@
 </p>
 <p >
   <a href="https://image-converter.yubinshin.com/" target="_blank">
-    View Live Demo
+    View Live Demo: https://image-converter.yubinshin.com/
   </a>
 </p>
 
